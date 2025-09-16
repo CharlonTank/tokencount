@@ -1,6 +1,6 @@
 [package]
 name = "tokencount"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 authors = ["Charles-André Assus"]
 description = "Parallel CLI that counts GPT-style tokens across your codebase"
